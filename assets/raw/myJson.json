@@ -1,0 +1,48 @@
+{
+  "previous": "Some URl for previos page",
+  "next": "Some URL for next page",
+  "results": [
+    {
+      "first_name": "Phùng Đức",
+      "last_name": "Huan",
+      "email": "huanutehy1@gmail.com",
+      "phone": "0329455777",
+      "verified": true
+    },
+    {
+      "first_name": "Phùng Đức",
+      "last_name": "Huan",
+      "email": "huanutehy1@gmail.com",
+      "phone": "0329455777",
+      "verified": false
+    },
+    {
+      "first_name": "Phùng Đức",
+      "last_name": "Huan",
+      "email": "huanutehy1@gmail.com",
+      "phone": "0329455777",
+      "verified": true
+    },
+    {
+      "first_name": "Phùng Đức",
+      "last_name": "Huan",
+      "email": "huanutehy1@gmail.com",
+      "phone": "0329455777",
+      "verified": false
+    },
+    {
+      "first_name": "Phùng Đức",
+      "last_name": "Huan",
+      "email": "huanutehy1@gmail.com",
+      "phone": "0329455777",
+      "verified": true
+    },
+    {
+      "first_name": "Phùng Đức",
+      "last_name": "Huan",
+      "email": "huanutehy1@gmail.com",
+      "phone": "0329455777",
+      "verified": false
+    }
+  ]
+}
